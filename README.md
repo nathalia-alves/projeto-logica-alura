@@ -13,3 +13,5 @@
 - [x] Usar funções para facilitar seu trabalho;
 - [x] Conhecer o Canvas para gerar desenhos e animações;
 - [x] Revisar conceitos importantes na programação.
+
+> Status do Projeto: Concluido :heavy_check_mark:
